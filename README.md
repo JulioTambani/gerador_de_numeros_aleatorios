@@ -1,4 +1,4 @@
-# Gerador_de_Números_Aleatorios
+# Gerador_de_Números_Aleatórios
 <br>
 <p>O propósito deste exercício é de criar um sistema que o usuário informa uma sequência de seis números e o sistema gera seis números aleatórios, logo depois o sistema vai comparar os valores e vai mostrar:</p>
 <p>Quais os números que foram sorteados.</p>
