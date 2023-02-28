@@ -19,3 +19,10 @@ for (let indexLottery=0; indexLottery<lotteryNumbers.length; indexLottery+=1){
         }
     }
 }
+
+// Mostra os resultados
+
+console.log('Números sorteados:', lotteryNumbers);
+console.log('Jogos:',firstGame);
+console.log('Quantidade de acertos:', numberOfHits);
+console.log('Númeors acertados:', hits);
